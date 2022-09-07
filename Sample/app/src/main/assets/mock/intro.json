@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Be Togather",
+    "description": "Healthy eating means eating a variety of foods that give you the nutrients you need to maintain your health, feel good, and have energy.",
+    "image": "https://raw.githubusercontent.com/huyqv/Food/main/assets/intro1.png"
+  },
+  {
+    "title": "Choose A Tasty Dish",
+    "description": "Order anything you want from your Favorite restaurant.",
+    "image": "https://raw.githubusercontent.com/huyqv/Food/main/assets/intro2.png"
+  },
+  {
+    "title": "Easy Payment",
+    "description": "Payment made easy through debit card, credit card  & more ways to pay for your food",
+    "image": "https://raw.githubusercontent.com/huyqv/Food/main/assets/intro3.png"
+  }
+]

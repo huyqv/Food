@@ -1,0 +1,38 @@
+[
+  {
+    "uuid": "1001",
+    "shopName": "Conrad food",
+    "tag": "Pizza",
+    "score": 4.6,
+    "time": 15,
+    "discount": 50,
+    "image": "https://raw.githubusercontent.com/huyqv/Food/main/assets/shop1.png"
+  },
+  {
+    "uuid": "1002",
+    "shopName": "SK Restro",
+    "tag": "Chienese",
+    "score": 4.4,
+    "time": 30,
+    "discount": 40,
+    "image": "https://raw.githubusercontent.com/huyqv/Food/main/assets/shop2.png"
+  },
+  {
+    "uuid": "1003",
+    "shopName": "Black Fish",
+    "tag": "Seafood",
+    "score": 4.3,
+    "time": 20,
+    "discount": 40,
+    "image": "https://raw.githubusercontent.com/huyqv/Food/main/assets/shop3.png"
+  },
+  {
+    "uuid": "1004",
+    "shopName": "Goichi Oniko",
+    "tag": "Fastfood",
+    "score": 4.0,
+    "time": 20,
+    "discount": 50,
+    "image": "https://raw.githubusercontent.com/huyqv/Food/main/assets/shop4.png"
+  }
+]

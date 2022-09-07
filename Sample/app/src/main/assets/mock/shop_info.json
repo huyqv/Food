@@ -1,0 +1,60 @@
+{
+  "uuid": "1001",
+  "shopName": "Conrad food",
+  "tag": "Pizza",
+  "score": 4.6,
+  "time": 15,
+  "discount": 50,
+  "image": "https://raw.githubusercontent.com/huyqv/Food/main/assets/shop1.png",
+  "banner": "https://raw.githubusercontent.com/huyqv/Food/main/assets/banner1.png",
+  "tagList": [
+    "Best Seller",
+    "Veg Pizza",
+    "Pizza Mania",
+    "Sides"
+  ],
+  "foodList": [
+    {
+      "name": "Margherita",
+      "image": "https://raw.githubusercontent.com/huyqv/Food/main/assets/food1.png",
+      "price": 12.5,
+      "tags": [
+        "Best Seller",
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Veg Loaded",
+      "image": "https://raw.githubusercontent.com/huyqv/Food/main/assets/food2.png",
+      "price": 8.5,
+      "tags": [
+        "Best Seller",
+        "Pizza Mania"
+      ]
+    },
+    {
+      "name": "Farm House",
+      "image": "https://raw.githubusercontent.com/huyqv/Food/main/assets/food3.png",
+      "price": 8.50,
+      "tags": [
+        "Pizza Mania"
+      ]
+    },
+    {
+      "name": "Fresh Veggie",
+      "image": "https://raw.githubusercontent.com/huyqv/Food/main/assets/food4.png",
+      "price": 11.99,
+      "tags": [
+        "Pizza Mania"
+      ]
+    },
+    {
+      "name": "Tomato",
+      "image": "https://raw.githubusercontent.com/huyqv/Food/main/assets/food5.png",
+      "price": 8.0,
+      "tags": [
+        "Pizza Mania"
+      ]
+    }
+  ]
+}

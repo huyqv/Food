@@ -1,0 +1,18 @@
+[
+  {
+    "title": "All",
+    "icon": "https://raw.githubusercontent.com/huyqv/Food/main/assets/category1.png"
+  },
+  {
+    "title": "Pizza",
+    "icon": "https://raw.githubusercontent.com/huyqv/Food/main/assets/category2.png"
+  },
+  {
+    "title": "Beverages",
+    "icon": "https://raw.githubusercontent.com/huyqv/Food/main/assets/category3.png"
+  },
+  {
+    "title": "Asian",
+    "icon": "https://raw.githubusercontent.com/huyqv/Food/main/assets/category4.png"
+  }
+]
